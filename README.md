@@ -1,6 +1,5 @@
 ### Merhaba! Ben Kadir Cem Yıldırım 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cem-dev1&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 - 🚀 Web uygulamaları ve otomasyon çözümleri geliştiren bir **Junior Full Stack Developer**'ım.
 - 💻 **React, Next.js, TypeScript, Node.js, Supabase ve Tailwind CSS** kullanarak modern web projeleri üretiyorum.
