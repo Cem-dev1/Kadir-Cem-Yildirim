@@ -4,7 +4,7 @@
 
 - 🚀 Web uygulamaları ve otomasyon çözümleri geliştiren bir **Junior Full Stack Developer**'ım.
 - 💻 **React, Next.js, TypeScript, Node.js, Supabase ve Tailwind CSS** kullanarak modern web projeleri üretiyorum.
-- 🏢 **Stuck Software** ve **Vertex Studios** girişimlerinin kurucu ortağıyım.
+- 🏢 **Stuck Software** girişimlerinin kurucu ortağıyım.
 - 🎓 **Düzce Üniversitesi Bilgisayar Programcılığı** mezunuyum (GPA: **3.23**).
 - 💼 Daha önce **Sorentum Teknoloji** bünyesinde yazılım geliştirme stajyeri olarak görev aldım.
 
@@ -18,8 +18,6 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cem-dev1&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
