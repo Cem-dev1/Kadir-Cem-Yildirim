@@ -1,11 +1,12 @@
-### Merhaba! Ben Kadir Cem 👋
+### Merhaba! Ben Kadir Cem Yıldırım 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cem-dev1&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 - 🚀 Web uygulamaları ve otomasyon çözümleri geliştiren bir **Junior Full Stack Developer**'ım.
 - 💻 **React, Next.js, TypeScript, Node.js, Supabase ve Tailwind CSS** kullanarak modern web projeleri üretiyorum.
-- 🛠️ [Vertex Studios](https://github.com/Cem-dev1) ve Stuck Software girişimlerinin kurucu ortaklarından biriyim.
-- 🎯 Şu sıralar gelişmiş web mimarileri ve kullanıcı deneyimi odaklı projelere odaklanıyorum.
+- 🏢 **Stuck Software** ve **Vertex Studios** girişimlerinin kurucu ortağıyım.
+- 🎓 **Düzce Üniversitesi Bilgisayar Programcılığı** mezunuyum (GPA: **3.23**).
+- 💼 Daha önce **Sorentum Teknoloji** bünyesinde yazılım geliştirme stajyeri olarak görev aldım.
 
 ---
 
